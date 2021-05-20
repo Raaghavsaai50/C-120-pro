@@ -1,0 +1,12 @@
+body{
+    background-color:blue;
+}
+.copy_right_footer{
+    background-color: orange;
+    color: green;
+    bottom: 0;
+    text-align: center;
+    position: fixed;
+    line-height: 3;
+    width: 100%;
+  }
